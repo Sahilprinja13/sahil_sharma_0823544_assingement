@@ -1,0 +1,76 @@
+/* name sahil sharma
+id 0823544 */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.accordion h3, .tabs .tab-links a {
+    background: #34495e;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    font-size: 16px;
+    transition: background 0.3s ease-in-out;
+}
+
+.accordion h3:hover, .tabs .tab-links a:hover {
+    background: #2c3e50;
+}
+
+.accordion .panel, .tabs .tab {
+    display: none;
+    background: #ffffff;
+    padding: 15px;
+    border: 1px solid #dddddd;
+}
+
+.accordion .panel {
+    border-top: none;
+}
+
+.tabs .tab-links {
+    margin-bottom: 0;
+    border-bottom: 1px solid #dddddd;
+    list-style-type: none;
+    padding: 0;
+}
+
+.tabs .tab-links li {
+    display: inline-block;
+    margin: 0;
+}
+
+.tabs .tab-links li.active a, .tabs .tab-links li a.active {
+    background:grey
+}
+.img {
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+    
+}
+.accordion{
+    border: solid black 5px;
+    margin-bottom: 10px;
+}
+.header-image {
+    display: flex;
+    align-items: center; 
+    
+} 
+.header-image img{
+    margin-right: 100px;
+    border-radius: 20px;
+    /* border: 100px; */
+}
+
