@@ -1,0 +1,12 @@
+[
+    {"firstName": "Naruto", "lastName": "Uzumaki", "village": "Leaf", "rank": "Hokage", "age": 32, "date": "2001-10-03"},
+    {"firstName": "Sasuke", "lastName": "Uchiha", "village": "Leaf", "rank": "Ninja", "age": 32, "date": "2001-10-03"},
+    {"firstName": "Sakura", "lastName": "Haruno", "village": "Leaf", "rank": "Jonin", "age": 32, "date": "2001-10-03"},
+    {"firstName": "Kakashi", "lastName": "Hatake", "village": "Leaf", "rank": "Jonin", "age": 45, "date": "1976-09-15"},
+    {"firstName": "Hinata", "lastName": "Hyuga", "village": "Leaf", "rank": "Chunin", "age": 32, "date": "2001-10-03"},
+    {"firstName": "Shikamaru", "lastName": "Nara", "village": "Leaf", "rank": "Jonin", "age": 32, "date": "2001-10-03"},
+    {"firstName": "Ino", "lastName": "Yamanaka", "village": "Leaf", "rank": "Jonin", "age": 32, "date": "2001-10-03"},
+    {"firstName": "Madara", "lastName": "Uchiha", "village": "Leaf", "rank": "Founder", "age": 100, "date": "1921-01-01"},
+    {"firstName": "Obito", "lastName": "Uchiha", "village": "Leaf", "rank": "Jonin", "age": 31, "date": "2002-02-10"},
+    {"firstName": "Itachi", "lastName": "Uchiha", "village": "Leaf", "rank": "Anbu", "age": 21, "date": "2012-06-09"}
+]
