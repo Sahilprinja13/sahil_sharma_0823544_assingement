@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+    <title>Registration Form</title>
+</head>
+
+<body>
+    <header>Sahil Sharma</header>
+    <form id="registrationForm">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+
+        <label for="confirmPassword">Confirm Password:</label>
+        <input type="password" id="confirmPassword" name="confirmPassword"><br><br>
+
+        <label>
+            <input type="checkbox" id="termsOfService">
+            I accept the terms of service
+        </label><br><br>
+
+        <label for="countrySelect">Country:</label>
+        <select id="countrySelect" name="country">
+            <option value="">Select your country</option>
+           
+        </select><br><br>
+
+        <button type="submit" id="submitButton" disabled>Submit</button>
+    </form>
+    <div id="message"></div>
+        
+    
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/countries.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
